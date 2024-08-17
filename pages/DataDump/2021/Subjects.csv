@@ -1,0 +1,68 @@
+Sem,Code,Name
+1,21MAT11,Calculus and Differential Equations
+1,21CHE12,Engineering Chemistry
+1,21PSP13,Problem Solving through Programming
+1,21ELN14,Basic Electronics & Communication Engineering
+1,21EME15,Elements of Mechanical Engineering
+1,21CHEL16,Engineering Chemistry Laboratory
+1,21CPL17,Computer Programming Laboratory
+1,21EGH18,Communicative English
+1,21SFH19,Scientific Foundation of Health
+2,21MAT21,Advanced Calculus and Numerical Methods
+2,21PHY22,Engineering Physics
+2,21ELE23,Basic Electrical Engineering
+2,21CIV24,Elements of Civil Engineering and Mechanics
+2,21EVN25,Engineering Visualization
+2,21PHYL26,Engineering Physics Laboratory
+2,21ELEL27,Basic Electrical Engineering Laboratory
+2,21EGH28,Professional Writing Skills in English
+2,21IDT29,Innovation and Design Thinking
+3,21MAT31,"Transform Calculus, Fourier Series and Numerical Techniques"
+3,21CS382,Ability Enhancement Course - III
+3,21CS32,Data Structures and its Applications
+3,21CS33,Analog and Digital Electronics
+3,21CS34,Computer Organization and Architecture
+3,21CSL35,Object Oriented Programming with JAVA Laboratory
+3,21SCR36,Social Connect and Responsibility
+3,21CIP37,Constitution of India and Professional Ethics
+4,21CS41,Mathematical Foundations for Computing
+4,21CS482,Unix Shell programming
+4,21CS42,Design and Analysis of Algorithms
+4,21CS43,Microcontroller and Embedded Systems
+4,21CS44,Operating Systems
+4,21BE45,Biology For Engineers
+4,21CSL46,Python Programming Laboratory
+4,21KBK47,Samskrutika Kannada/ Balake Kannada
+4,21UH49 ,Universal Human Values
+4,21INT49,Inter/Intra Institutional Internship
+5,21CS51,Automata Theory and compiler Design
+5,21CS52,Computer Networks
+5,21CS53,Database Management Systems
+5,21AI54,Principles of Artificial Intelligence 
+5,21CSL55,Database Management System Laboratory with Mini Project
+5,21RMI56,Research Methodology &Intellectual Property Rights
+5,21CIV57,Environmental Studies
+5,21CSL581,ANGULAR JS 
+6,21CS61,Software Engineering & Project Management
+6,21AD62,Data Science and its Applications
+6,21AI63,Machine Learning
+6,21AD644,Data Security and Privacy
+6,21CV651,Remote Sensing and GIS
+6,21EC654,Electronic Circuits with Verilog
+6,21EE652,Renewable Energy Resources
+6,21ME652,Renewable Energy Power Plants
+6,21ME654,Modern Mobility
+6,21AIL66,Machine Learning Laboratory
+6,21ADMP67,Mini Project
+6,21INT68,Innovation/Entrepreneurship /Societal Internship
+7,21AD71,Data Visualization
+7,21CS72,Cloud Computing
+7,21XX73X,Professional elective Course-II
+7,21XX74X,Professional elective Course-III
+7,21XX75X,Open elective Course-II
+7,21ADP76,Project work
+8,21AD81,Technical Seminar
+8,21INT82,Research Internship/ Industry Internship
+8,21NS83,National Service Scheme (NSS)
+8,21PE83,Physical Education (PE) (Sports and Athletics)
+8,21YO83,Yoga
