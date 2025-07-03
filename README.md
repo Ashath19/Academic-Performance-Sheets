@@ -54,11 +54,8 @@ To run this project locally, follow these steps:
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you have suggestions or find any bugs.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
 - Thanks to the Streamlit community for their valuable resources and support.
-- Special thanks to [Your Name] for project guidance and mentorship.
+- Special thanks to Mrs. Veena Bhat for project guidance and mentorship.
